@@ -10,6 +10,7 @@
   /warning\
   <br />
   This is only the code for the bot, you need to host it yourself
+  <br />
   You need to have the message content intent enable on your bot, you can find it in the "bot" tab in your discord developpers application
   <img src="https://media.discordapp.net/attachments/968204513423020034/1263881536550473779/image.png?ex=669bd8e8&is=669a8768&hm=b7c940af89745125f458d368be360458c5fbc6d5a2212af032bc9d0d4bf43967&=&format=webp&quality=lossless" alt="intent">
 </h3>
