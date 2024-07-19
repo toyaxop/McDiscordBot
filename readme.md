@@ -7,9 +7,18 @@
 <br />
 <br />
 <h2>How tu use</h2>
-<h2>
+<h3>
   /warning\
   <br />
   <br />
   This is only the code for the bot, you need to host it yourself
-</h2>
+</h3>
+<br>
+<br>
+<h3>
+  You 
+ ```java -jar McDiscordBot.jar <discord bot token> <ip of the server> <port of the server> <delay> <channel id> (<msg id>)```
+
+  To get the message id you need to run once the bot and then modify the script to include msg id
+</h3>
+
